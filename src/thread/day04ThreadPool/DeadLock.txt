@@ -1,0 +1,13 @@
+DeadLock Example Real World:
+
+2 friends are each drawing a picture.
+there is 1 pencil and 1 eraser.
+
+1 friend is using ruler and 1 is using the eraser
+
+they are each waiting for the other person to release the ruler and eraser so they can use it...
+
+suppose the person1 with the ruler does not release the ruler and they hold on to it.
+
+Person 2 is going to be waiting forever to use the ruler and they will end up in a dead lock situation where you are not
+able to use one of the resources to complete the picture.
